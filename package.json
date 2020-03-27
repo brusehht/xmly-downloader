@@ -1,0 +1,23 @@
+{
+  "name": "xmly",
+  "version": "1.0.0",
+  "description": "xmly pachong",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.18.1",
+    "cheerio": "^1.0.0-rc.2",
+    "eventproxy": "^1.0.0",
+    "http": "^0.0.0",
+    "iconv-lite": "^0.4.23",
+    "moment": "^2.24.0",
+    "progress": "^2.0.3",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node index"
+  },
+  "author": "",
+  "license": "ISC"
+}
